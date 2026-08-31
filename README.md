@@ -1,14 +1,4 @@
-# Run and deploy your AI Studio app
+# MPC-60 Emulator
 
-This contains everything you need to run your app locally.
+Aplicación web para emular sampler MPC-60. Funcional y con mejoras en diseño y usabilidad.
 
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`

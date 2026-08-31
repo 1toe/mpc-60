@@ -1,6 +1,0 @@
-{
-  "name": "React MPC60",
-  "description": "A web-based music production center inspired by the classic Akai MPC60. Users can load their own audio samples onto 16 pads and trigger them via mouse click or keyboard, emulating the workflow of the iconic hardware sampler.",
-  "requestFramePermissions": [],
-  "prompt": ""
-}
